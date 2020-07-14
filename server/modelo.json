@@ -1,0 +1,14 @@
+{
+	"name": "Mercado do seu Ita",
+  "email": "contato@imperatriz.com",
+	"whatsapp": "999-999",
+	"latitude": -14.2829022,
+	"longitude": -39.8455621,
+	"city": "Itagibá",
+	"uf": "BA",
+	"items": [
+		1,
+		2,
+		6
+	]
+}
